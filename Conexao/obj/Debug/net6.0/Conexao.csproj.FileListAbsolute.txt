@@ -1,0 +1,457 @@
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\appsettings.json
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Conexao.exe
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Conexao.deps.json
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Conexao.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Conexao.pdb
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.dll
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.pdb
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+C:\Users\Johann\Desktop\conexao\Conexao\obj\Debug\net6.0\ref\Conexao.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Johann\Desktop\conexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.exe
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\obj\Debug\net6.0\ref\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\publish\web.config
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\StringDeConexao\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\publish\web.config
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\appsettings.Development.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\appsettings.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\publish\appsettings.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.exe
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.deps.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.pdb
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Humanizer.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\back\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.dll
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.pdb
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+F:\back\StringDeConexao\Conexao\obj\Debug\net6.0\ref\Conexao.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\publish\web.config
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\appsettings.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.exe
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.deps.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+C:\Users\rafam\OneDrive\Área de Trabalho\StringDeConexao\Conexao\obj\Debug\net6.0\ref\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Conexao.exe
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\obj\Debug\net6.0\ref\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\publish\web.config
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\Trabalho de conclusão de Curso\API\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\publish\web.config
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Conexao.exe
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\ref\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\web.config
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.exe
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.deps.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.csproj.AssemblyReference.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfoInputs.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.AssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CoreCompileInputs.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\scopedcss\bundle\Conexao.styles.css
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\refint\Conexao.dll
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.pdb
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
+C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\obj\Debug\net6.0\ref\Conexao.dll
