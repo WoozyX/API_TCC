@@ -91,6 +91,28 @@ namespace Conexao.Controllers
             }
         }
 
+        [HttpGet("GetbyOccorrencia/{tpOcorrenciasId}")]
+
+        public async Task<IActionResult> GetOcorrencias(int tpOcorrenciasId)
+        {
+            try
+            {
+                
+                List<Registro> lista = await _context.Registro.Where(r => r.TiposOcorrenciasId == tpOcorrenciasId).ToListAsync();
+
+                return Ok(lista);
+            }
+            catch (Exception ex)
+            {
+                    return BadRequest(ex.Message);
+            }
+            
+
+
+        }
+
+        
+        
 
 
 

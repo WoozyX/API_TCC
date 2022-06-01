@@ -12,6 +12,7 @@ namespace Conexao.Controllers
     [Route("[controller]")]
     public class ContatoController : ControllerBase
     {
+        
         private Contato c = new Contato();
 
         
@@ -40,15 +41,15 @@ namespace Conexao.Controllers
             }
         } 
 
-        
-        [HttpGet("GetAll")]
+        //Consultar cliente pelo id do Usuário 
+        [HttpGet("{ClienteId}")]
 
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> GetByUser(int ClienteId)
         {
             try
             {
                 
-                List<Contato> lista = await _context.Contato.ToListAsync();
+                List<Contato> lista = await _context.Contato.Where(c => c.ClienteId == ClienteId).ToListAsync();
 
                 return Ok(lista);
             }
@@ -59,6 +60,43 @@ namespace Conexao.Controllers
             
 
 
+        }
+
+        //Deletar
+        [HttpDelete("{id}")]
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                Contato cRemover = await _context.Contato.FirstOrDefaultAsync(c => c.Id == id);
+
+                _context.Contato.Remove(cRemover);
+                int linhasAfetadas = await _context.SaveChangesAsync();
+
+                return Ok(linhasAfetadas);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        //Atualizar
+        [HttpPut]
+
+        public async Task<IActionResult> Update(Contato novoContato)
+        {
+            try
+            {
+                _context.Contato.Update(novoContato);
+                int linhasAfetadas = await _context.SaveChangesAsync();
+                return Ok(linhasAfetadas);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
         
 
