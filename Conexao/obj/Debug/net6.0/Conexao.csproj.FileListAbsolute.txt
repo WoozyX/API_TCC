@@ -389,13 +389,8 @@ C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\scopedcss\bundle
 C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.csproj.CopyComplete
 C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\Conexao.genruntimeconfig.cache
 C:\Users\rafam\OneDrive\Documentos\API\Conexao\obj\Debug\net6.0\ref\Conexao.dll
-C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\web.config
 C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\appsettings.json
-C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\appsettings.Development.json
-C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\appsettings.json
-C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\Conexao.deps.json
-C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\publish\Conexao.runtimeconfig.json
 C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.exe
 C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.deps.json
 C:\Users\rafam\OneDrive\Documentos\CURSOS\ETEC\TCC\API\Conexao\bin\Debug\net6.0\Conexao.runtimeconfig.json

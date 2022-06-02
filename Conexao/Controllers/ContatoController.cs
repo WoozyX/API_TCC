@@ -41,6 +41,24 @@ namespace Conexao.Controllers
             }
         } 
 
+        [HttpGet("GetAll")]
+
+        public async Task<IActionResult> GetContatos()
+        {
+            try
+            {
+                List<Contato> lista = await _context.Contato.ToListAsync();
+                return Ok(lista);
+            }
+            catch (Exception ex)
+            {
+                
+                return BadRequest(ex.Message);
+            }
+
+
+        }
+
         //Consultar cliente pelo id do Usuário 
         [HttpGet("{ClienteId}")]
 
